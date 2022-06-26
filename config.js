@@ -1,9 +1,9 @@
 // INI SC MASIH ADA BUG YA FIX IN AJA
 // BASE ILMANHDYT
 // SC ORI HYZER
-// CREATOR KRIZYN OFC
+// CREATOR Rafli OFC
 // RECODE BY RIEL OFC
-// RECODE BACK BY ARULL OFC
+// RECODE BACK BY Arull OFC
 
 //=============『 Utama 』================== //
 global.owner = ['6285171660730'] 
